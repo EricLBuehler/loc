@@ -209,6 +209,7 @@ ignore files with `loc -u`, and include hidden files/dirs with `loc -uu`.
 - Make
 - Makefile
 - Markdown
+- Metal
 - Mustache
 - Nim
 - Nix
